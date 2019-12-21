@@ -2,7 +2,7 @@
 Exercícios sobre linguagem Python apresentados no canal Curso em Vídeo.
 
 <p align = "center">
- <img src= "https://user-images.githubusercontent.com/49538805/71314651-ff611400-242a-11ea-8245-10a06340483e.jpg">
+ <img src= "https://user-images.githubusercontent.com/49538805/71314968-831dff00-2431-11ea-98e9-ac14c7117fdc.jpg">
 </p>
 
 
