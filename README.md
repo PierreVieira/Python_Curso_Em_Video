@@ -6,10 +6,10 @@ Exercícios sobre linguagem Python apresentados no canal Curso em Vídeo.
 </p>
 
 
-Mundo 1: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
-Mundo 2: https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye
-Mundo 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
-Playlist de exercícios: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
+<p> Mundo 1: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 </p>
+<p>Mundo 2: https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye </p>
+<p>Mundo 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH </p>
+<p>Playlist de exercícios: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-</p>
 
-Cursos em vídeo-aulas totalmente gratuitos, criados pelo Professor Gustavo Guanabara. 
-Informações para contato: contato@cursoemvideo.com
+<p>Cursos em vídeo-aulas totalmente gratuitos, criados pelo Professor Gustavo Guanabara.</p>
+<p>Informações para contato: contato@cursoemvideo.com</p>
