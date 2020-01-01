@@ -2,6 +2,8 @@
 Exercício Python 080: Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista,
 já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
 """
+
+
 def posicao_maior(numero):
     """
     Identifica a posição do número menor que seja maior ao maior número passado como parâmetro na lista
@@ -13,6 +15,7 @@ def posicao_maior(numero):
         if lista[c] > numero:
             return c
     return len(lista)
+
 
 def add_correto(numero):
     """
@@ -28,6 +31,7 @@ def add_correto(numero):
     else:
         print(f'Adicionando na posição {posicao} o número {numero}')
     lista.insert(posicao, numero)
+
 
 lista = []
 for c in range(5):
