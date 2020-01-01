@@ -1,9 +1,24 @@
 """
-Exercício Python 074: Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso,
-mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
-"""
+Exercício Python 075: Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final,
+mostre:
 
-from random import sample
-tupla_aleatoria = tuple(sample(range(11), 5))
-print(f'Os valores sorteados foram: {str(tupla_aleatoria)[1:len(str(tupla_aleatoria))-1:]}')
-print(f'Maior: {max(tupla_aleatoria)}\nMenor: {min(tupla_aleatoria)}')
+A) Quantas vezes apareceu o valor 9.
+B) Em que posição foi digitado o primeiro valor 3.
+C) Quais foram os números pares.
+"""
+tupla = tuple(map(int, input('Informe quatro valores: ').split()))
+qtde9 = tupla.count(9)
+try:
+    posicao_primeiro3 = tupla.index(3)
+    print(f'A posição do primeiro 3 foi {posicao_primeiro3}')
+except ValueError:
+    print('Não foi encontrado nenhum número 3')
+pares = tuple(filter(lambda x: x % 2 == 0, tupla))
+if qtde9 == 1:
+    print('Foi encontrado 1 número 9')
+else:
+    print(f'Foram encontrados {qtde9} números 9')
+if len(pares) == 1:
+    print('Foi encontrado 1 valor par')
+else:
+    print(f'Foram encontrados {len(pares)} valores pares')
