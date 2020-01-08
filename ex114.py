@@ -4,7 +4,7 @@ Exercício Python 114: Crie um código em Python que teste se o site pudim está
 import urllib
 from urllib.request import urlopen
 try:
-    url = urlopen('http://www.pronhub.com')
+    url = urlopen('http://www.pudim.com.br')
 except urllib.error.URLError:
     print('Deu erro!')
 else:
